@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Shikha from India<br><br>- 🔭 I'm an engineering student <br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I love to code and sleep</p>
+<p align="left">I'm Shikha from India<br><br>- 🔭 I'm an engineering student <br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I love to code and dance</p>
 
 ###
 
